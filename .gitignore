@@ -1,0 +1,16 @@
+.vscode
+/build
+.DS_Store
+/holodaye
+CMakeCache.txt
+CMakeFiles
+Makefile
+.idea
+/data
+ARKit-CoreLocation/ARCLTests/
+ARKit-CoreLocation/Node Demos/
+ARKit-CoreLocation/Node DemosTests/
+ARKit-CoreLocation/Node DemosUITests/
+*.csv
+.vs/
+out/
